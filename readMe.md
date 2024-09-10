@@ -11,9 +11,7 @@ You can find example pictures of ecommerce app under the directory of "imageForA
 - [Security](#security)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [API Documentation](#api-documentation)
-- [License](#license)
-
+  
 ## Overview
 This Ecommerce project implements various backend development principles and security measures using Spring Boot. It includes features like user authentication, product management, and secure data handling with JWT authentication and Spring Security.
 
